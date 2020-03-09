@@ -1,5 +1,11 @@
 webpack入门
 
+cd webpack-one
+
+cnpm install
+
+cnpm run server
+
 资源：
 https://www.jianshu.com/p/1192cfd4a012 webpack入门
 
